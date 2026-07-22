@@ -1,9 +1,0 @@
-2026-07-22 21:36:14  [INFO    ]  train_model  --  Split done -- train=32, test=8
-2026-07-22 21:36:15  [INFO    ]  train_model  --  MultinomialNB training complete.
-2026-07-22 21:36:29  [INFO    ]  train_model  --  Cross-validation complete.
-2026-07-22 21:36:30  [INFO    ]  train_model  --  ROC curve saved --> C:\Users\DELL\Documents\ml project\Spam-Mail-Detection\notebooks\08_roc_curve.png
-2026-07-22 21:36:30  [INFO    ]  train_model  --  PR curve saved --> C:\Users\DELL\Documents\ml project\Spam-Mail-Detection\notebooks\09_pr_curve.png
-2026-07-22 21:36:31  [INFO    ]  train_model  --  Confusion matrix saved --> C:\Users\DELL\Documents\ml project\Spam-Mail-Detection\notebooks\10_confusion_matrix.png
-2026-07-22 21:36:31  [INFO    ]  train_model  --  Accuracy graph saved --> C:\Users\DELL\Documents\ml project\Spam-Mail-Detection\notebooks\11_accuracy_graph.png
-2026-07-22 21:36:31  [INFO    ]  train_model  --  Model saved      --> C:\Users\DELL\Documents\ml project\Spam-Mail-Detection\models\spam_model.pkl
-2026-07-22 21:36:31  [INFO    ]  train_model  --  Vectorizer saved --> C:\Users\DELL\Documents\ml project\Spam-Mail-Detection\models\tfidf_vectorizer.pkl

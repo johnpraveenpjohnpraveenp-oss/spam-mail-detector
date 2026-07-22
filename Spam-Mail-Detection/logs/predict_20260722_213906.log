@@ -1,8 +1,0 @@
-2026-07-22 21:39:07  [INFO    ]  predict  --  Prediction: Spam  (spam=99.40%, ham=0.60%)
-2026-07-22 21:39:07  [INFO    ]  predict  --  Prediction: Ham  (spam=0.11%, ham=99.89%)
-2026-07-22 21:39:07  [INFO    ]  predict  --  Prediction: Spam  (spam=72.51%, ham=27.49%)
-2026-07-22 21:39:07  [INFO    ]  predict  --  Prediction: Ham  (spam=0.80%, ham=99.20%)
-2026-07-22 21:39:07  [INFO    ]  predict  --  Prediction: Spam  (spam=99.98%, ham=0.02%)
-2026-07-22 21:39:07  [INFO    ]  predict  --  Prediction: Ham  (spam=0.07%, ham=99.93%)
-2026-07-22 21:39:07  [INFO    ]  predict  --  Prediction: Spam  (spam=96.84%, ham=3.16%)
-2026-07-22 21:39:07  [INFO    ]  predict  --  Prediction: Ham  (spam=0.25%, ham=99.75%)
